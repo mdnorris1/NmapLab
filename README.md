@@ -47,7 +47,7 @@ First, I found the open ports
 
 nmap –sT (ip add) -p-
 
-And then, used nmap to use brute force scripts to attempt to take control of a host (eg using SSH, HTTP protocols/ports and others) ie tries different passwords.
+And then, used nmap to use brute force scripts to attempt to take control of a host (using SSH, HTTP and other protocols/ports).
 
 <br/>
 <img src="assets/5.png" height="80%" width="80%" alt="brute force"/>
